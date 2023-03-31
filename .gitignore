@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other notebooks
+SARSA.ipynb
+RL implementation.ipynb
+Expected SARSA.ipynb
+DQN.ipynb
